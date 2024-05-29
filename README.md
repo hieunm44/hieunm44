@@ -1,16 +1,37 @@
-## Hi there 👋
+# Welcome to Hiếu's Github Page
 
-<!--
-**hieunm44/hieunm44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+🦊 Hi there! My name is **Hiếu** and I am currently a Master's student in the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/). I am from 🇻🇳 **Vietnam** and so far I have set foot in 14 countries:
+| <center><img src="https://www.worldometers.info/img/flags/vm-flag.gif" height=60/><br>Vietnam</center> | <center><img src="https://www.worldometers.info/img/flags/ks-flag.gif" height=60/><br>South Korea</center> | <center><img src="https://www.worldometers.info/img/flags/sn-flag.gif" height=60/><br>Singapore</center> | <center><img src="https://www.worldometers.info/img/flags/be-flag.gif" height=60/><br>Belgium</center> | <center><img src="https://www.worldometers.info/img/flags/nl-flag.gif" height=60/><br>Netherlands</center> | <center><img src="https://www.worldometers.info/img/flags/sw-flag.gif" height=60/><br>Sweden</center> | <center><img src="https://www.worldometers.info/img/flags/fi-flag.gif" height=60/><br>Finland</center> |
+| - | - | - | - | - | - | - |
 
-Here are some ideas to get you started:
+| <center><img src="https://www.worldometers.info/img/flags/no-flag.gif" height=60/><br>Norway</center> | <center><img src="https://www.worldometers.info/img/flags/da-flag.gif" height=60/><br>Denmark</center> | <center><img src="https://www.worldometers.info/img/flags/sp-flag.gif" height=60/><br>Spain</center> | <center><img src="https://www.worldometers.info/img/flags/fr-flag.gif" height=60/><br>France</center> | <center><img src="https://www.worldometers.info/img/flags/it-flag.gif" height=60/><br>Italy</center> | <center><img src="https://www.worldometers.info/img/flags/gm-flag.gif" height=60/><br>Germany</center> | <center><img src="https://www.worldometers.info/img/flags/uk-flag.gif" height=60/><br>United Kingdom</center> |
+| - | - | - | - | - | - | - |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://github.com/hieunm44/">
+  <img src="https://github-readme-stats-flame-psi-86.vercel.app/api?username=hieunm44&theme=moltack&show_icons=true" height=190/>
+</a>
+<a href="https://github.com/hieunm44/">
+  <img src="https://github-readme-stats-flame-psi-86.vercel.app/api/top-langs/?username=hieunm44&theme=moltack&layout=compact" height=190/>
+</a>
+</div>
+
+## Top Repositories
+<div align="center">
+<a href="https://github.com/hieunm44/sound-event-detection">
+  <img src="https://github-readme-stats-flame-psi-86.vercel.app/api/pin/?username=hieunm44&repo=sound-event-detection&theme=moltack&show_icons=true"/>
+</a>
+<a href="https://github.com/hieunm44/anomalous-sound-detection">
+  <img src="https://github-readme-stats-flame-psi-86.vercel.app/api/pin/?username=hieunm44&repo=anomalous-sound-detection&theme=moltack&show_icons=true"/>
+</a>
+
+<br>
+
+<a href="https://github.com/hieunm44/noise-remover-beat-mixer">
+  <img src="https://github-readme-stats-flame-psi-86.vercel.app/api/pin/?username=hieunm44&repo=noise-remover-beat-mixer&theme=moltack&show_icons=true"/>
+</a>
+<a href="https://github.com/hieunm44/dm-sncb-cool-train">
+  <img src="https://github-readme-stats-flame-psi-86.vercel.app/api/pin/?username=hieunm44&repo=dm-sncb-cool-train&theme=moltack&show_icons=true"/>
+</a>
+</div>
