@@ -1,15 +1,9 @@
 # Welcome to Hiếu's Github Page
 
 ## About me
-🦊 Hi there! My name is **Hiếu** and I am currently a Master's student in the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/). I am from 🇻🇳 **Vietnam** and so far I have set foot in 16 countries:
-| <center><img src="https://www.worldometers.info/img/flags/vm-flag.gif" height=60/><br>Vietnam</center> | <center><img src="https://www.worldometers.info/img/flags/ks-flag.gif" height=60/><br>South Korea</center> | <center><img src="https://www.worldometers.info/img/flags/sn-flag.gif" height=60/><br>Singapore</center> | <center><img src="https://www.worldometers.info/img/flags/be-flag.gif" height=60/><br>Belgium</center> | <center><img src="https://www.worldometers.info/img/flags/nl-flag.gif" height=60/><br>Netherlands</center> | <center><img src="https://www.worldometers.info/img/flags/sw-flag.gif" height=60/><br>Sweden</center> | <center><img src="https://www.worldometers.info/img/flags/fi-flag.gif" height=60/><br>Finland</center> |
-| - | - | - | - | - | - | - |
-
-| <center><img src="https://www.worldometers.info/img/flags/no-flag.gif" height=60/><br>Norway</center> | <center><img src="https://www.worldometers.info/img/flags/da-flag.gif" height=60/><br>Denmark</center> | <center><img src="https://www.worldometers.info/img/flags/sp-flag.gif" height=60/><br>Spain</center> | <center><img src="https://www.worldometers.info/img/flags/fr-flag.gif" height=60/><br>France</center> | <center><img src="https://www.worldometers.info/img/flags/it-flag.gif" height=60/><br>Italy</center> | <center><img src="https://www.worldometers.info/img/flags/an-flag.gif" height=60/><br>Andorra</center> | <center><img src="https://www.worldometers.info/img/flags/po-flag.gif" height=60/><br>Portugal</center> |
-| - | - | - | - | - | - | - |
-
-| <center><img src="https://www.worldometers.info/img/flags/gm-flag.gif" height=60/><br>Germany</center> | <center><img src="https://www.worldometers.info/img/flags/uk-flag.gif" height=60/><br>United Kingdom</center> | <center><img src="https://www.worldometers.info/img/flags/sp-flag.gif" height=60/><br>Spain</center> | <center><img src="https://www.worldometers.info/img/flags/fr-flag.gif" height=60/><br>France</center> | <center><img src="https://www.worldometers.info/img/flags/it-flag.gif" height=60/><br>Italy</center> | <center><img src="https://www.worldometers.info/img/flags/gm-flag.gif" height=60/><br>Germany</center> | <center><img src="https://www.worldometers.info/img/flags/uk-flag.gif" height=60/><br>United Kingdom</center> |
-| - | - | - | - | - | - | - |
+🦊 Hi there! My name is **Hiếu** and I am currently a Master's student in the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/). I am from 🇻🇳 **Vietnam** and so far I have set foot in 16 countries: \
+🇻🇳 **Vietnam** $\rightarrow$ 🇰🇷 **South Korea** $\rightarrow$ 🇸🇬 **Singapore** $\rightarrow$ 🇧🇪 **Belgium** $\rightarrow$ 🇳🇱 **Netherlands** $\rightarrow$ 🇸🇪 **Sweden** $\rightarrow$ 🇫🇮 **Finland** \
+$\rightarrow$ 🇳🇴 **Norway** $\rightarrow$ 🇩🇰 **Denmark** $\rightarrow$ 🇪🇸 **Spain**$\rightarrow$ 🇫🇷 **France** $\rightarrow$ 🇮🇹 **Italy** $\rightarrow$ 🇦🇩 **Andorra** $\rightarrow$ 🇵🇹 **Portugal** $\rightarrow$ 🇩🇪 **Germany**
 
 <div align="center">
 <a href="https://github.com/hieunm44/">
