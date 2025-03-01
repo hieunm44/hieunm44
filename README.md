@@ -1,10 +1,7 @@
 # Welcome to Hiếu's Github Page
 
 ## About me
-🦊 Hi there! My name is **Hiếu** and I am currently a Master's student in the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/). I am from 🇻🇳 **Vietnam** and so far I have set foot in 21 countries: \
-🇻🇳 **Vietnam** $\rightarrow$ 🇰🇷 **South Korea** $\rightarrow$ 🇸🇬 **Singapore** $\rightarrow$ 🇧🇪 **Belgium** $\rightarrow$ 🇳🇱 **Netherlands** $\rightarrow$ 🇸🇪 **Sweden** $\rightarrow$ 🇫🇮 **Finland** \
-$\rightarrow$ 🇳🇴 **Norway** $\rightarrow$ 🇩🇰 **Denmark** $\rightarrow$ 🇪🇸 **Spain**$\rightarrow$ 🇫🇷 **France** $\rightarrow$ 🇮🇹 **Italy** $\rightarrow$ 🇦🇩 **Andorra** $\rightarrow$ 🇵🇹 **Portugal** $\rightarrow$ 🇩🇪 **Germany** \
-$\rightarrow$ 🇭🇷 **Croatia** $\rightarrow$ 🇸🇮 **Slovenia** $\rightarrow$ 🇨🇿 **Czechia** $\rightarrow$ 🇦🇹 **Austria** $\rightarrow$ 🇸🇰 **Slovakia** $\rightarrow$ 🇭🇺 **Hungary** 
+🦊 Hi there! My name is **Hiếu** and I am from 🇻🇳 **Vietnam**. Currently I am a Master's student in the [Erasmus Mundus Joint Master Degree Programme in Big Data Management and Analytics (BDMA)](https://bdma.ulb.ac.be/). I enjoy learning maths, ML/AI, data science, and recently I have got a new interest: quantitative trading, where I can apply mathematical models to build stock trading strategies. My career goal is to become an expert in data science and a quantitative researcher as a side hustle 🦊.
 
 <div align="center">
 <a href="https://github.com/hieunm44/">
